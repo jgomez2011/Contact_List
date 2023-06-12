@@ -34,4 +34,6 @@ const Layout = () => {
 	);
 };
 
-export default injectContext(Layout);
+export default injectContext(Layout)
+
+
